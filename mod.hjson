@@ -1,0 +1,7 @@
+name: "nbs"
+displayName: "188 = No basic stuff"
+author: "[yellow]RT[cyan]Omega"
+description: "Replaces 188 with the same map but no copper nor lead."
+version: "1.0"
+minGameVersion: 120
+hidden: true
